@@ -29,11 +29,13 @@ Convet the following variable names to camelCase:
 
 var time_elapsed;
 var totalprice;
+
 Question 7
 Convert the following string values to number values:
 
 var number1 = "53";
 var number2 = "44.6";
+
 Question 8
 Check the type of the following variables and log the results:
 
@@ -41,6 +43,7 @@ var pet = "donkey";
 var age = 89;
 var discountApplied = true;
 var timeLeft;
+
 Question 9
 Declare and initialise a variable with the value "Updating heading".
 
